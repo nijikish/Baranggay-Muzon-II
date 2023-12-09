@@ -15,7 +15,7 @@ mark, rp, rt, ruby, summary, time {
 	overflow:hidden;
 }
 body {
-	background:#90EE90;
+	background:#2f4493;
 	border:0;
 	font:12px Arial, Helvetica, sans-serif;
 	color:#fff;
@@ -24,7 +24,7 @@ body {
 .inner_copy, .inner_copy a {
 	border:0;
 	float:right;
-	background:#90EE90;
+	background:#2f4493;
 	color:#f00;
 	width:50%;
 	line-height:10px;
